@@ -4,3 +4,4 @@ Put some information here. For tag v0.3.
 Add new line here.
 
 Ah, also want this line to be in the same commit.
+Again, new line.
